@@ -1,0 +1,11 @@
+venv/
+.idea/
+
+backend/media/
+backend/static/
+
+**/__pycache__/**
+
+.env
+.env.db.prod
+.env.prod
